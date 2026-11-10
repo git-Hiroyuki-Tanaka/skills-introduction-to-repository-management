@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @git-Hiroyuki-Tanaka
+/src/backend/database.py      @git-Hiroyuki-Tanaka
+/src/backend/routers/auth.py  @git-Hiroyuki-Tanaka
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @git-Hiroyuki-Tanaka
